@@ -9,6 +9,7 @@ Each lab has the configuration, screenshots as evidence, the problems I ran into
 | # | Lab | Topics | Status |
 |---|---|---|---|
 | 01 | [Configure a Wireless Router and Clients](01-wireless-router-config/) | DHCP, WPA2, default credentials, APIPA and DNS troubleshooting | ✅ Completed |
+| 02 | [Connect to a Web Server](02-connect-to-web-server/) | IP addressing, ICMP/ping, ARP, TTL, packet analysis (Simulation mode) | ✅ Completed |
 
 ## Author
 
